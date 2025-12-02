@@ -207,8 +207,8 @@
             "Both":"Both"
           }}]},
     {"name":"Endgame",
-      "fields":[{"
-        title":"End Position",
+      "fields":[{
+        "title":"End Position",
         "type":"select",
         "required":true,
         "code":"epo",
