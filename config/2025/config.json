@@ -107,7 +107,7 @@
           "defaultValue":"",
           "choices":{
             "LG_Launch_Wall":"Large Launch Area (Wall)",
-            "LG_Launch_Ramp":"Large Launch Area (Ramp)",
+            "LG_Launch_Ramp":"Large Launch Area (Depot)",
             "SM_Launch":"Small Launch Area"
           }},
         {"title":"No Show",
